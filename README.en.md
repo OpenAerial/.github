@@ -16,7 +16,7 @@ Maintain Chinese `.md` and sibling English `.en.md` documentation together. Bran
 
 ## Current project
 
-Product designs, code, BOMs, simulation, and validation materials are maintained in [Accelerate11/OpenAerial](https://github.com/Accelerate11/OpenAerial). The first product is [OpenAerial 150](https://github.com/Accelerate11/OpenAerial/tree/main/products/openaerial-150).
+The first product's designs, power board, BOMs, and deployment materials are maintained in the dedicated public repository [OpenAerial/openaerial150](https://github.com/OpenAerial/openaerial150). See [Accelerate11/OpenAerial](https://github.com/Accelerate11/OpenAerial) for the platform overview and existing research materials.
 
 ## Maintenance
 

@@ -16,7 +16,7 @@
 
 ## 当前项目入口
 
-产品设计、代码、BOM、仿真与验证资料维护在 [Accelerate11/OpenAerial](https://github.com/Accelerate11/OpenAerial)。首款产品为 [OpenAerial 150](https://github.com/Accelerate11/OpenAerial/tree/main/products/openaerial-150)。
+首款产品的设计、分电板、BOM 与部署资料在独立公开仓库 [OpenAerial/openaerial150](https://github.com/OpenAerial/openaerial150) 维护。平台总览与既有研究资料见 [Accelerate11/OpenAerial](https://github.com/Accelerate11/OpenAerial)。
 
 ## 维护
 
